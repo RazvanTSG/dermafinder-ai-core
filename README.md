@@ -3,6 +3,8 @@
 **Event:** 24-Hour Hackathon Sprint (Innovation Labs)
 **Objective:** Medical-grade classification of skin lesions with focus on False Negative reduction under hardware constraints.
 
+[![Dermafinder Demo](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://youtu.be/5BMkCJC4iZI_VIDEO_YOUTUBE)
+
 ## Hackathon Constraints & Performance Optimization
 Built in under 24 hours with limited compute resources (Google Colab Free Tier).
 * **Mixed Precision ($float16$):** Implemented to maximize GPU throughput on NVIDIA Tesla T4. By using 16-bit precision for matrix multiplications while keeping 32-bit for critical stability, training speed was increased by ~2x and VRAM usage was halved.
