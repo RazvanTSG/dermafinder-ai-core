@@ -3,7 +3,7 @@
 **Event:** 24-Hour Hackathon Sprint (Innovation Labs)
 **Objective:** Medical-grade classification of skin lesions with focus on False Negative reduction under hardware constraints.
 
-[![Dermafinder Demo](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://youtu.be/5BMkCJC4iZI_VIDEO_YOUTUBE)
+[![Dermafinder Demo](https://img.youtube.com/vi/5BMkCJC4iZI/maxresdefault.jpg)](https://www.youtube.com/watch?v=5BMkCJC4iZI)
 
 ## Hackathon Constraints & Performance Optimization
 Built in under 24 hours with limited compute resources (Google Colab Free Tier).
